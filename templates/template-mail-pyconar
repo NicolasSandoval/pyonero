@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title>Hello</title>
+</head>
+<body style="background-color: white ">
+
+<!--Copia desde aquí-->
+<table style="max-width: 600px; padding: 10px; margin:0 auto; border-collapse: collapse;">
+    <tr>
+        <td style="background-color: white; text-align: center; padding: 0">
+            <a href="https://eventos.python.org.ar/events/pyconar2019/">
+                <img width="100%" style="display:block" src="file:///home/ocin/Descargas/imagen-mail.png">
+            </a>
+        </td>
+    </tr>
+
+    <tr>
+        <td style="padding: 0">
+            <img style="padding: 0; display: block" src="">
+        </td>
+    </tr>
+    
+    <tr>
+        <td style="background-color: white">
+            <div style="color: #626262; margin: 4% 10% 2%;font-family: sans-serif">
+                <h2 style="color: #c05202; margin: 7px">:¡: Bienvenidos y gracias por acompañarnos en esta nueva edición de PyCon Argentina :!:</h2>
+                <p style="margin: 30px; font-size: 15px">
+                     </p>
+                <ul style="font-size: 15px;  margin: 10px 0">
+                    <li>Tienen 1 remera de regalo, necesitaríamos que nos pasen durante esta semana o la siguiente una lista con nombre, apellido, modelo y talle. Los talles para elegir van adjuntos. La entrega es durante la PyCon misma.</li>
+                    <p style="margin: 10px; font-size: 15px">
+                    </p>
+                    <li>Además tenemos una oferta especial para empresas pythoneras, comprando cinco (5) remeras o más tienen un descuento especial, y la Asociación Civil les hace una factura A por la compra. Si el encargo es antes del 8 de Noviembre, el descuento es del 20% ($410+IVA) y luego será del 10% ($462+IVA).</li>
+                </ul>
+                <p style="margin:10px; font-size: 15px">
+                También necesitariamos:</p>
+                <ul style="font-size: 15px;  margin: 10px 0">
+                    <li>Confirmación-Envío de video para rotación en leds de la conferencia. 
+                    Por ser sponsors Bronce tienen la posibilidad de mostrar un video de 10 segundos en loop en los espacios que vamos a disponer en la conferencia. Algunos de estos espacios van a rotar todo el tiempo, otros en momentos en que no se usen para otras cosas, no está del todo definido aún, porque el Centro Cultural nos debe algunas respuestas, pero no queremos demorar pedirles este material. Entonces, necesitamos nos pasen el video correspondiente. En realidad puede ser tanto un video como una imagen estática.(que nosotros mostraremos durante los segundos indicados)</li>
+                    <p style="margin: 10px; font-size: 15px">
+                    </p>
+                    <li>En la conferencia vamos a regalar una bolsita a los asistentes. Si quieren poner algo adentro de la misma, son bienvenidos. Puede ser cualquier cosa útil para la gente. Por una cuestión ecológica decidimos que NO vamos a distribuir folletería simple en papel, pero el resto todo bien (como antistress, stickers, lapiceras, etc.)Vamos a armar 1000 bolsas este año.</li>
+                </ul>
+                <p style="margin:30px; font-size: 15px">
+                Ante cualquier consulta, estamos a su disposición.</p>
+                <p style="margin:30px; font-size: 15px">
+                    </p>
+                <p style="color: #0d8f24; font-size: 12px; text-align: center;margin: 2px">Staff Members</p>
+                <p style="color: #052036; font-size: 12px; text-align: center;margin: 2px 0 0">PyCon Argentina 2019</p>
+            </div>
+        </td>
+    </tr>
+</table>
+<!--hasta aquí-->
+
+</body>
+</html>
